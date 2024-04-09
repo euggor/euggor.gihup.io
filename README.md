@@ -1,1 +1,1 @@
-# euggor.githup.io initial
+# euggor.github.io initial
